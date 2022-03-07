@@ -1,0 +1,2 @@
+# 2020307-2
+#include &lt;stdio.h> int main() {    printf("Characters: %d %c \n", 'a' ,65);    printf("Decimals: %d %1d\n",1977,65000L);    printf("Preceding with balnks: %10d \n",1977);    printf("Preceding with zeros: %010d \n", 177);    printf("some diffrent radinces; %d %x %0 %#x %#o \n", 100,100,100);    printf("floast; %4.2f %E \n",31416,3.1416,3.1416);    printf("Wdth tric; 5*d \n",5,10);    printf("%s \n", "A string");    return 0; }
